@@ -1,0 +1,6 @@
+requests
+gradio_client
+pyaudio
+vosk
+Flask
+gradio
